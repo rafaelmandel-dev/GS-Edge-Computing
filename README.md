@@ -4,7 +4,7 @@ Este repositório contém o código fonte do projeto Guardian, uma solução bas
 
 ## Link para o projeto no WOKWI e video no Youtube
 
-[Acesse o Projeto no WOKWI clicando aqui](https://cp1-front-web.vercel.app/)
+[Acesse o Projeto no WOKWI clicando aqui](https://wokwi.com/projects/414857536614958081)
 
 [Acesse o video explicativo no Youtube clicando aqui](https://youtu.be/62gEc4FMRlM)
 
