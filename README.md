@@ -2,9 +2,11 @@
 
 Este repositório contém o código fonte do projeto Guardian, uma solução baseada em Arduino para monitoramento de condições climáticas e identificação da melhor fonte de energia renovável em diferentes regiões.
 
-## Link para o projeto no WOKWI
+## Link para o projeto no WOKWI e video no Youtube
 
-[Acesse o Projeto clicando aqui](https://cp1-front-web.vercel.app/)
+[Acesse o Projeto no WOKWI clicando aqui](https://cp1-front-web.vercel.app/)
+
+[Acesse o video explicativo no Youtube clicando aqui](https://youtu.be/62gEc4FMRlM)
 
 ## Desenvolvedores
 
