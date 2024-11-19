@@ -40,7 +40,7 @@ O projeto Guardian utiliza sensores e componentes eletrônicos para coletar dado
 
 2. **Recomendação de Fontes de Energia:**
 
-Energia Eólica: Recomendada para condições de vento acima de 20 km/h e temperaturas abaixo de 30°C.
+    - Energia Eólica: Recomendada para condições de vento acima de 20 km/h e temperaturas abaixo de 30°C.
 
     - Energia Solar: Sugerida para temperaturas acima de 30°C e alta umidade.
 
