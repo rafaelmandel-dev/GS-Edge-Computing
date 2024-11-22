@@ -12,7 +12,7 @@ Este repositório contém o código fonte do projeto Guardian, uma solução bas
 
 - Rafael Mandel, 560333
 
-- Luigi Thinego, 560755
+- Luigi Thiengo, 560755
 
 - Felipe Silva, 559848
 
